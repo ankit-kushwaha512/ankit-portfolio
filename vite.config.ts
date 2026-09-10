@@ -8,7 +8,7 @@ export default defineConfig({
   // set this to '/<repo-name>/' (must match your GitHub repo name exactly).
   // If deploying to a custom domain or a <username>.github.io "user" page,
   // leave this as '/'.
-  base: '/',
+  base: '/ankit-portfolio/',
   server: {
     port: 5173,
   },
